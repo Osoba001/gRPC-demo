@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace = "DistanceGrpc";
+
+
+service CustomerService{
+	rpc GetCustomerInfo(CustomerLookupModel) returns(CustomerModel);
+	rpc GetAllCustomerInfo(AllCustomerRequest) returns(stream CustomerModel);
+}
+
+message CustomerLookupModel{
+	int32 userId=1;
+}
+message AllCustomerRequest{
+}
+
+message CustomerModel{
+	string name=1;
+	string email=2;
+	bool isAlive=3;
+	int32 age=4;
+}

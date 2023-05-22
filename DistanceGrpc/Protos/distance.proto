@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "DistanceGrpc";
+
+
+service DistanceInfo{
+	rpc GetDistance(Cities) returns (DistanceData);
+}
+message Cities{
+	string originCity=1;
+	string destinationCirt=2;
+}
+message DistanceData{
+	string miles=1;
+}

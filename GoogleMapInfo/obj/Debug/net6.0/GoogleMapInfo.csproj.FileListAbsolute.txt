@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\bin\Debug\net6.0\GoogleMapInfo.deps.json
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\bin\Debug\net6.0\GoogleMapInfo.dll
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\bin\Debug\net6.0\GoogleMapInfo.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.dll
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\refint\GoogleMapInfo.dll
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\GoogleMapInfo.pdb
+C:\Users\DELL\Desktop\Apps\Microservices\Microservice-map-info\GoogleMapInfo\obj\Debug\net6.0\ref\GoogleMapInfo.dll
