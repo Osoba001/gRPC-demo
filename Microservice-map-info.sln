@@ -5,11 +5,13 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice-map-info", "Microservice-map-info\Microservice-map-info.csproj", "{3526E28F-BDD4-483E-8D57-4E4C33C6F466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapInfo", "GoogleMapInfo\GoogleMapInfo.csproj", "{2160AB72-6303-4808-B507-0DBD34470F7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleMapInfo", "GoogleMapInfo\GoogleMapInfo.csproj", "{2160AB72-6303-4808-B507-0DBD34470F7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceGrpc", "DistanceGrpc\DistanceGrpc.csproj", "{1BB95836-75CD-4511-89C2-1D9C8D7AB6A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistanceGrpc", "DistanceGrpc\DistanceGrpc.csproj", "{1BB95836-75CD-4511-89C2-1D9C8D7AB6A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcClient.console", "GrpcClient.console\GrpcClient.console.csproj", "{B2C69D07-BA21-42D2-B1A5-5D0B3391243B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcClient.console", "GrpcClient.console\GrpcClient.console.csproj", "{B2C69D07-BA21-42D2-B1A5-5D0B3391243B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC.webapi", "gRPC.webapi\gRPC.webapi.csproj", "{B5146B44-EAD3-4EC4-A95C-4C8753FE88F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B2C69D07-BA21-42D2-B1A5-5D0B3391243B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2C69D07-BA21-42D2-B1A5-5D0B3391243B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2C69D07-BA21-42D2-B1A5-5D0B3391243B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5146B44-EAD3-4EC4-A95C-4C8753FE88F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5146B44-EAD3-4EC4-A95C-4C8753FE88F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5146B44-EAD3-4EC4-A95C-4C8753FE88F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5146B44-EAD3-4EC4-A95C-4C8753FE88F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
